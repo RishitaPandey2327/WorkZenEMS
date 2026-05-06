@@ -189,27 +189,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here after deployment)*
-
-### 🔹 Login Page
-
-![Login](https://via.placeholder.com/800x400)
-
-### 🔹 Dashboard
-
-![Dashboard](https://via.placeholder.com/800x400)
-
-### 🔹 Leave Management
-
-![Leave](https://via.placeholder.com/800x400)
-
-### 🔹 Notices
-
-![Notices](https://via.placeholder.com/800x400)
-
----
 
 ## 🔒 Security Features
 
