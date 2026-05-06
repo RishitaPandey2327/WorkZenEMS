@@ -18,6 +18,12 @@ app.use("/api/users", require("./routes/userRoutes"));
 app.use("/api/leave", require("./routes/leaveRoutes"));
 app.use("/api/attendance", require("./routes/attendanceRoutes"));
 app.use("/api/notice", require("./routes/noticeRoutes"));
+app.get("/", (req, res) => {
+  res.send("WorkZen EMS API Running 🚀");
+});
 
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log("Server running"));
+
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
