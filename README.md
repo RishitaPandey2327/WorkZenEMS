@@ -99,8 +99,8 @@ Built with the **MERN stack**, this project demonstrates real-world application 
 
 ## 🌐 Live Links
 
-* 🔗 **Frontend:** https://your-frontend.vercel.app
-* 🔗 **Backend API:** https://your-backend.onrender.com
+* 🔗 **Frontend:** [https://work-zen-ems.vercel.app](https://work-zen-ems.vercel.app/)
+* 🔗 **Backend API:** [https://workzenems.onrender.com/api](https://workzenems.onrender.com/api)
 
 ---
 
